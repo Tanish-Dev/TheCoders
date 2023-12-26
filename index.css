@@ -133,18 +133,18 @@ h3 {
   color: white;
   font-family: Montserrat;
   font-size: 160px;
-  margin-left: 150px;
+  margin-left: 10%;
 }
 .sub {
   font-family: ibm plex mono;
   color: white;
   font-size: 35px;
-  margin-left: 150px;
+  margin-left: 10%;
 }
 .mainbody {
   color: white;
   display: inline-block;
-  margin: 150px;
+  margin: 10%;
   font-family: ibm plex mono;
   font-weight: lighter;
   font-size: 30px;
@@ -181,4 +181,18 @@ h3 {
 }
 .icon2 {
   width: 16px;
+}
+.subsub {
+  font-family: ibm plex mono;
+  font-size: 30px;
+  padding: 0;
+  margin-left: 5%;
+  padding-top: 40px;
+  margin-bottom: 8px;
+}
+.privacy {
+  color: white;
+  font-family: ibm plex mono;
+  margin: 5%;
+  margin-top: 0;
 }
